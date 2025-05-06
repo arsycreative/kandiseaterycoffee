@@ -134,11 +134,11 @@ export default function App() {
         >
           <iframe
             title="Kandis Coffee Eatery Location"
-            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15860.139042525204!2d108.34642517116434!3d-7.325847092416607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sid!4v1714999999999!5m2!1sen!2sid"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.676185047271!2d108.3443007!3d-7.325835899999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f5ff4e7afd367%3A0x94ce60e501fb9536!2sKandis%20Coffee%20Eatery!5e0!3m2!1sen!2sid!4v1715087322549!5m2!1sen!2sid"
             width="100%"
             height="300"
             style={{ border: 0 }}
-            allowFullScreen
+            allowFullScreen=""
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
           />
