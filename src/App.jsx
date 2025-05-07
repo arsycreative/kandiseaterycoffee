@@ -19,7 +19,7 @@ export default function App() {
     {
       label: "Menu",
       icon: <Store className="w-5 h-5" />,
-      url: "https://drive.google.com/file/d/1lKS8Cj8I_WjouO7YJCggFnAI-SJ0lv6M/view?usp=sharing",
+      url: "https://drive.google.com/file/d/1MvXZyxIm6bI5D-4iML2PvpigwdRexMY0/view?usp=sharing",
     },
     {
       label: "Shopee",
@@ -147,7 +147,7 @@ export default function App() {
 
       {/* WhatsApp Floating Button */}
       <a
-        href="https://wa.me/6289653527316"
+        href="https://wa.me/6281222249229"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-4 right-4 z-20 bg-green-500 hover:bg-green-600 text-white p-3 rounded-full shadow-xl transition-all duration-300"
