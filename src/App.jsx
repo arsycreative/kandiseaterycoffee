@@ -19,7 +19,7 @@ export default function App() {
     {
       label: "Menu",
       icon: <Store className="w-5 h-5" />,
-      url: "https://drive.google.com/file/d/1MvXZyxIm6bI5D-4iML2PvpigwdRexMY0/view?usp=sharing",
+      url: "https://drive.google.com/file/d/1ZFJ7Mf3FhsKWiT21I2B_7PAOgj6doNnc/view?usp=sharing",
     },
     {
       label: "Shopee",
