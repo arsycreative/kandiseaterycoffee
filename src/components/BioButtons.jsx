@@ -3,7 +3,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const links = [
-  { label: "WhatsApp", url: "https://wa.me/6281222249229", color: "#25D366" },
+  { label: "WhatsApp", url: "https://wa.me/628131389209", color: "#25D366" },
   {
     label: "Shopee",
     url: "https://shopee.co.id/universal-link/now-food/shop/21657196?deep_and_deferred=1&shareChannel=copy_link",
